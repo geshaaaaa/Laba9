@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ry+ZGwkvSLo7v/jEsTqQk4ZF6r9GpQE1Ns/Uq1uRQbKJLc4Db/9Ha0ycnGVLotW5o9AA9v3P7+v0iP/XoCJeng==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\LABA9\\JSON1\\JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gena\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
