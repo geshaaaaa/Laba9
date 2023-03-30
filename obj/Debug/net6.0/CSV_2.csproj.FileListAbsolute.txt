@@ -1,0 +1,15 @@
+D:\C#\CSV_2\bin\Debug\net6.0\CSV_2.exe
+D:\C#\CSV_2\bin\Debug\net6.0\CSV_2.deps.json
+D:\C#\CSV_2\bin\Debug\net6.0\CSV_2.runtimeconfig.json
+D:\C#\CSV_2\bin\Debug\net6.0\CSV_2.dll
+D:\C#\CSV_2\bin\Debug\net6.0\CSV_2.pdb
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.csproj.AssemblyReference.cache
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.AssemblyInfoInputs.cache
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.AssemblyInfo.cs
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.csproj.CoreCompileInputs.cache
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.dll
+D:\C#\CSV_2\obj\Debug\net6.0\refint\CSV_2.dll
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.pdb
+D:\C#\CSV_2\obj\Debug\net6.0\CSV_2.genruntimeconfig.cache
+D:\C#\CSV_2\obj\Debug\net6.0\ref\CSV_2.dll
