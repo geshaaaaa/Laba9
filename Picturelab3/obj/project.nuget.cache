@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJ+APV8wh2edM44tdaEBqdiAvhF8luIcgYWsZxb51Kx+O6ElWZX4X8py2oSCQPaaaVpYtpPVSKXM1km3nGsfag==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\Picturelab3\\Picturelab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gena\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gena\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
