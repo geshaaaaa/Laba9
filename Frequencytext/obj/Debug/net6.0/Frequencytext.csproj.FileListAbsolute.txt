@@ -1,0 +1,15 @@
+D:\C#\Frequencytext\bin\Debug\net6.0\Frequencytext.exe
+D:\C#\Frequencytext\bin\Debug\net6.0\Frequencytext.deps.json
+D:\C#\Frequencytext\bin\Debug\net6.0\Frequencytext.runtimeconfig.json
+D:\C#\Frequencytext\bin\Debug\net6.0\Frequencytext.dll
+D:\C#\Frequencytext\bin\Debug\net6.0\Frequencytext.pdb
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.csproj.AssemblyReference.cache
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.AssemblyInfoInputs.cache
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.AssemblyInfo.cs
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.csproj.CoreCompileInputs.cache
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.dll
+D:\C#\Frequencytext\obj\Debug\net6.0\refint\Frequencytext.dll
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.pdb
+D:\C#\Frequencytext\obj\Debug\net6.0\Frequencytext.genruntimeconfig.cache
+D:\C#\Frequencytext\obj\Debug\net6.0\ref\Frequencytext.dll
